@@ -1,5 +1,5 @@
 require 'barby/outputter'
-require 'RMagick'
+#require 'RMagick'
 
 module Barby
 
